@@ -47,6 +47,15 @@
     justify-content: space-between;
     align-items: center;
     border-radius: 30px;
+
+    h2 {
+      background-color: white;
+      padding-left: 1em;
+      padding-right: 1em;
+    }
+    p {
+      font-weight: bold;
+    }
   }
   #convertDiv {
     padding: 2em;
